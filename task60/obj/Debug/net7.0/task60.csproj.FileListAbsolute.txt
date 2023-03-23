@@ -1,0 +1,15 @@
+/Users/macbook/Documents/GeekBrains/введение в программирование/seminars/seminar8/task60/bin/Debug/net7.0/task60
+/Users/macbook/Documents/GeekBrains/введение в программирование/seminars/seminar8/task60/bin/Debug/net7.0/task60.deps.json
+/Users/macbook/Documents/GeekBrains/введение в программирование/seminars/seminar8/task60/bin/Debug/net7.0/task60.runtimeconfig.json
+/Users/macbook/Documents/GeekBrains/введение в программирование/seminars/seminar8/task60/bin/Debug/net7.0/task60.dll
+/Users/macbook/Documents/GeekBrains/введение в программирование/seminars/seminar8/task60/bin/Debug/net7.0/task60.pdb
+/Users/macbook/Documents/GeekBrains/введение в программирование/seminars/seminar8/task60/obj/Debug/net7.0/task60.csproj.AssemblyReference.cache
+/Users/macbook/Documents/GeekBrains/введение в программирование/seminars/seminar8/task60/obj/Debug/net7.0/task60.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Documents/GeekBrains/введение в программирование/seminars/seminar8/task60/obj/Debug/net7.0/task60.AssemblyInfoInputs.cache
+/Users/macbook/Documents/GeekBrains/введение в программирование/seminars/seminar8/task60/obj/Debug/net7.0/task60.AssemblyInfo.cs
+/Users/macbook/Documents/GeekBrains/введение в программирование/seminars/seminar8/task60/obj/Debug/net7.0/task60.csproj.CoreCompileInputs.cache
+/Users/macbook/Documents/GeekBrains/введение в программирование/seminars/seminar8/task60/obj/Debug/net7.0/task60.dll
+/Users/macbook/Documents/GeekBrains/введение в программирование/seminars/seminar8/task60/obj/Debug/net7.0/refint/task60.dll
+/Users/macbook/Documents/GeekBrains/введение в программирование/seminars/seminar8/task60/obj/Debug/net7.0/task60.pdb
+/Users/macbook/Documents/GeekBrains/введение в программирование/seminars/seminar8/task60/obj/Debug/net7.0/task60.genruntimeconfig.cache
+/Users/macbook/Documents/GeekBrains/введение в программирование/seminars/seminar8/task60/obj/Debug/net7.0/ref/task60.dll

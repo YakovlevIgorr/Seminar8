@@ -1,0 +1,15 @@
+/Users/macbook/Documents/GeekBrains/введение в программирование/seminars/seminar8/task62/obj/Debug/net7.0/task62.csproj.AssemblyReference.cache
+/Users/macbook/Documents/GeekBrains/введение в программирование/seminars/seminar8/task62/obj/Debug/net7.0/task62.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Documents/GeekBrains/введение в программирование/seminars/seminar8/task62/obj/Debug/net7.0/task62.AssemblyInfoInputs.cache
+/Users/macbook/Documents/GeekBrains/введение в программирование/seminars/seminar8/task62/obj/Debug/net7.0/task62.AssemblyInfo.cs
+/Users/macbook/Documents/GeekBrains/введение в программирование/seminars/seminar8/task62/obj/Debug/net7.0/task62.csproj.CoreCompileInputs.cache
+/Users/macbook/Documents/GeekBrains/введение в программирование/seminars/seminar8/task62/bin/Debug/net7.0/task62
+/Users/macbook/Documents/GeekBrains/введение в программирование/seminars/seminar8/task62/bin/Debug/net7.0/task62.deps.json
+/Users/macbook/Documents/GeekBrains/введение в программирование/seminars/seminar8/task62/bin/Debug/net7.0/task62.runtimeconfig.json
+/Users/macbook/Documents/GeekBrains/введение в программирование/seminars/seminar8/task62/bin/Debug/net7.0/task62.dll
+/Users/macbook/Documents/GeekBrains/введение в программирование/seminars/seminar8/task62/bin/Debug/net7.0/task62.pdb
+/Users/macbook/Documents/GeekBrains/введение в программирование/seminars/seminar8/task62/obj/Debug/net7.0/task62.dll
+/Users/macbook/Documents/GeekBrains/введение в программирование/seminars/seminar8/task62/obj/Debug/net7.0/refint/task62.dll
+/Users/macbook/Documents/GeekBrains/введение в программирование/seminars/seminar8/task62/obj/Debug/net7.0/task62.pdb
+/Users/macbook/Documents/GeekBrains/введение в программирование/seminars/seminar8/task62/obj/Debug/net7.0/task62.genruntimeconfig.cache
+/Users/macbook/Documents/GeekBrains/введение в программирование/seminars/seminar8/task62/obj/Debug/net7.0/ref/task62.dll
